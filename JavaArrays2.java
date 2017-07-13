@@ -9,7 +9,7 @@ delete();
 
 static void delete() {
 int a[] = { 10, 20, 30, 40, 50 };
-int del = 20;
+int del = 100;
 System.out.println("To be deleted value "+ del);
 System.out.println("Before Delete");
 for (int i = 0; i < a.length; i++) {
